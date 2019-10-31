@@ -15,3 +15,7 @@ Hello
 
 ## How To Contribute
 world
+
+### Copyright
+
+2014 Git.Training.
